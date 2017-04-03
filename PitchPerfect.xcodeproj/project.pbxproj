@@ -301,6 +301,7 @@
 				7941FCC11E90411200400314 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
