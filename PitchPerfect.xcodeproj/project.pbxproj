@@ -7,14 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		79141A831E9A6CC000ADB7A2 /* PlayAudioViewController-audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79141A821E9A6CC000ADB7A2 /* PlayAudioViewController-audio.swift */; };
 		7941FCB11E90411200400314 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7941FCB01E90411200400314 /* AppDelegate.swift */; };
 		7941FCB31E90411200400314 /* RecordAudioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7941FCB21E90411200400314 /* RecordAudioViewController.swift */; };
 		7941FCB61E90411200400314 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7941FCB41E90411200400314 /* Main.storyboard */; };
 		7941FCB81E90411200400314 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7941FCB71E90411200400314 /* Assets.xcassets */; };
 		7941FCBB1E90411200400314 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7941FCB91E90411200400314 /* LaunchScreen.storyboard */; };
+		7941FCC51E972F9000400314 /* PlayAudioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7941FCC41E972F9000400314 /* PlayAudioViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		79141A821E9A6CC000ADB7A2 /* PlayAudioViewController-audio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "PlayAudioViewController-audio.swift"; path = "../../../../../Downloads/PlayAudioViewController-audio.swift"; sourceTree = "<group>"; };
 		7941FCAD1E90411200400314 /* PitchPerfect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PitchPerfect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7941FCB01E90411200400314 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7941FCB21E90411200400314 /* RecordAudioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordAudioViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +25,7 @@
 		7941FCB71E90411200400314 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7941FCBA1E90411200400314 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7941FCBC1E90411200400314 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7941FCC41E972F9000400314 /* PlayAudioViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayAudioViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,11 +59,13 @@
 			isa = PBXGroup;
 			children = (
 				7941FCB01E90411200400314 /* AppDelegate.swift */,
-				7941FCB21E90411200400314 /* RecordAudioViewController.swift */,
-				7941FCB41E90411200400314 /* Main.storyboard */,
 				7941FCB71E90411200400314 /* Assets.xcassets */,
-				7941FCB91E90411200400314 /* LaunchScreen.storyboard */,
 				7941FCBC1E90411200400314 /* Info.plist */,
+				7941FCB91E90411200400314 /* LaunchScreen.storyboard */,
+				7941FCB41E90411200400314 /* Main.storyboard */,
+				79141A821E9A6CC000ADB7A2 /* PlayAudioViewController-audio.swift */,
+				7941FCC41E972F9000400314 /* PlayAudioViewController.swift */,
+				7941FCB21E90411200400314 /* RecordAudioViewController.swift */,
 			);
 			path = PitchPerfect;
 			sourceTree = "<group>";
@@ -136,8 +142,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				79141A831E9A6CC000ADB7A2 /* PlayAudioViewController-audio.swift in Sources */,
 				7941FCB31E90411200400314 /* RecordAudioViewController.swift in Sources */,
 				7941FCB11E90411200400314 /* AppDelegate.swift in Sources */,
+				7941FCC51E972F9000400314 /* PlayAudioViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
