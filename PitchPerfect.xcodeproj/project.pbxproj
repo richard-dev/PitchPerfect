@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		79141A821E9A6CC000ADB7A2 /* PlayAudioViewController-audio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "PlayAudioViewController-audio.swift"; path = "../../../../../Downloads/PlayAudioViewController-audio.swift"; sourceTree = "<group>"; };
+		79141A821E9A6CC000ADB7A2 /* PlayAudioViewController-audio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PlayAudioViewController-audio.swift"; sourceTree = "<group>"; };
 		7941FCAD1E90411200400314 /* PitchPerfect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PitchPerfect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7941FCB01E90411200400314 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7941FCB21E90411200400314 /* RecordAudioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordAudioViewController.swift; sourceTree = "<group>"; };
